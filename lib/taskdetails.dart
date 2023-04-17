@@ -13,7 +13,6 @@ class Scene extends StatelessWidget {
     return SizedBox(
       width: double.infinity,
       child: Container(
-        // home114N4 (261:144)
         width: double.infinity,
         height: 844 * fem,
         decoration: const BoxDecoration(
@@ -22,7 +21,6 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // group119Avt (261:145)
               left: 0 * fem,
               top: 0 * fem,
               child: Container(
@@ -41,7 +39,6 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // group104EQx (261:147)
                       margin: EdgeInsets.fromLTRB(
                           0 * fem, 0 * fem, 97 * fem, 0 * fem),
                       width: 81 * fem,
@@ -53,7 +50,6 @@ class Scene extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Container(
-                            // image5MEg (261:148)
                             margin: EdgeInsets.fromLTRB(
                                 0 * fem, 0 * fem, 0 * fem, 12 * fem),
                             width: 68 * fem,
@@ -67,7 +63,6 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Text(
-                            // zunbilegrx8 (261:149)
                             'Zunbileg',
                             style: safeGoogleFont(
                               'Inter',
@@ -78,7 +73,6 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           SizedBox(
-                            // narantsetegnqn (261:150)
                             width: double.infinity,
                             child: Text(
                               'Narantseteg',
@@ -96,14 +90,12 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // group787dA (261:151)
                       margin: EdgeInsets.fromLTRB(
                           0 * fem, 0 * fem, 0 * fem, 42 * fem),
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Container(
-                            // rak (261:152)
                             margin: EdgeInsets.fromLTRB(
                                 0 * fem, 0 * fem, 0 * fem, 23 * fem),
                             child: Text(
@@ -118,19 +110,16 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           SizedBox(
-                            // group77kRE (261:153)
                             height: 34 * fem,
                             child: Row(
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: [
                                 SizedBox(
-                                  // group746V6 (261:154)
                                   width: 31 * fem,
                                   height: double.infinity,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // 39S (261:155)
                                         left: 0 * fem,
                                         top: 0 * fem,
                                         child: Align(
@@ -151,7 +140,6 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // XqJ (261:156)
                                         left: 0 * fem,
                                         top: 19 * fem,
                                         child: Align(
@@ -178,13 +166,11 @@ class Scene extends StatelessWidget {
                                   width: 23 * fem,
                                 ),
                                 SizedBox(
-                                  // group75PsW (261:157)
                                   width: 22 * fem,
                                   height: double.infinity,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // 9Lt (261:158)
                                         left: 0 * fem,
                                         top: 0 * fem,
                                         child: Align(
@@ -205,7 +191,6 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // eYY (261:159)
                                         left: 0 * fem,
                                         top: 19 * fem,
                                         child: Align(
@@ -232,13 +217,11 @@ class Scene extends StatelessWidget {
                                   width: 23 * fem,
                                 ),
                                 SizedBox(
-                                  // group76wnY (261:160)
                                   width: 39 * fem,
                                   height: double.infinity,
                                   child: Stack(
                                     children: [
                                       Positioned(
-                                        // hWp (261:161)
                                         left: 0 * fem,
                                         top: 0 * fem,
                                         child: Align(
@@ -259,7 +242,6 @@ class Scene extends StatelessWidget {
                                         ),
                                       ),
                                       Positioned(
-                                        // bcC (261:162)
                                         left: 0 * fem,
                                         top: 19 * fem,
                                         child: Align(
@@ -293,7 +275,6 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // rectangle955nG (261:163)
               left: 26 * fem,
               top: 214 * fem,
               child: Align(
@@ -317,7 +298,6 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group120xLG (261:262)
               left: 54 * fem,
               top: 228 * fem,
               child: Align(
@@ -326,7 +306,6 @@ class Scene extends StatelessWidget {
                   height: 24 * fem,
                   child: SvgPicture.asset(
                     'assets/icons/clipboard.svg',
-                    color: const Color(0xff0a4c9a),
                     width: 24 * fem,
                     height: 24 * fem,
                   ),
@@ -334,7 +313,6 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // fEg (262:26)
               left: 89 * fem,
               top: 232 * fem,
               child: Align(
@@ -355,12 +333,11 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group122YpG (261:492)
               left: 41 * fem,
               top: 272 * fem,
               child: Container(
                 padding: EdgeInsets.fromLTRB(
-                    10.93 * fem, 9 * fem, 8.92 * fem, 15 * fem),
+                    10.93 * fem, 9 * fem, 8.92 * fem, 14 * fem),
                 width: 308 * fem,
                 height: 203 * fem,
                 decoration: BoxDecoration(
@@ -378,15 +355,13 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // autogroupaaax1Sx (83rkhb7R9QzcWsPd3PAAAX)
                       margin: EdgeInsets.fromLTRB(
-                          0 * fem, 0 * fem, 0 * fem, 12 * fem),
+                          0 * fem, 0 * fem, 0 * fem, 18 * fem),
                       width: double.infinity,
                       height: 59 * fem,
                       child: Stack(
                         children: [
                           Positioned(
-                            // mongolhelniiessaybichihwLc (261:494)
                             left: 1.82421875 * fem,
                             top: 5 * fem,
                             child: Align(
@@ -407,7 +382,6 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // group911rG (261:495)
                             left: 217.06640625 * fem,
                             top: 0 * fem,
                             child: Container(
@@ -432,7 +406,6 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // group99sda (261:523)
                             left: 0 * fem,
                             top: 36 * fem,
                             child: Container(
@@ -445,7 +418,6 @@ class Scene extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // autogroupepf5khN (83rkw5iw7kfCdkXUbXepF5)
                                     margin: EdgeInsets.fromLTRB(
                                         3.07 * fem, 0 * fem, 2 * fem, 1 * fem),
                                     width: double.infinity,
@@ -454,7 +426,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // gL8 (261:527)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               3 * fem, 223 * fem, 0 * fem),
                                           child: Text(
@@ -469,7 +440,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // oQk (261:528)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 3 * fem),
                                           child: Text(
@@ -488,7 +458,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // group97iXi (261:524)
                                     width: double.infinity,
                                     decoration: BoxDecoration(
                                       color: const Color(0xffd9d9d9),
@@ -496,7 +465,6 @@ class Scene extends StatelessWidget {
                                           BorderRadius.circular(6 * fem),
                                     ),
                                     child: Align(
-                                      // rectangle107TEQ (261:526)
                                       alignment: Alignment.centerLeft,
                                       child: SizedBox(
                                         width: 96.02 * fem,
@@ -519,194 +487,250 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // group98xgx (261:498)
                       margin: EdgeInsets.fromLTRB(
-                          0 * fem, 0 * fem, 2.01 * fem, 0 * fem),
-                      width: 286.13 * fem,
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.center,
+                          0 * fem, 0 * fem, 2.08 * fem, 6 * fem),
+                      width: 286.07 * fem,
+                      height: 96 * fem,
+                      child: Stack(
                         children: [
-                          Container(
-                            // group94VB6 (261:499)
-                            padding: EdgeInsets.fromLTRB(
-                                2.73 * fem, 9 * fem, 220.06 * fem, 9 * fem),
-                            width: double.infinity,
-                            height: 36 * fem,
-                            decoration: BoxDecoration(
-                              border:
-                                  Border.all(color: const Color(0xffd9d9d9)),
-                            ),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Container(
-                                  // group92CLQ (261:504)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 13.93 * fem, 0 * fem),
-                                  padding: EdgeInsets.fromLTRB(
-                                      2.73 * fem, 3 * fem, 2.73 * fem, 3 * fem),
-                                  width: 16.4 * fem,
-                                  height: double.infinity,
-                                  decoration: BoxDecoration(
-                                    border: Border.all(
-                                        color: const Color(0xff0a4c9a)),
-                                    borderRadius:
-                                        BorderRadius.circular(4 * fem),
-                                  ),
-                                  child: Center(
-                                    // rectangle104hHA (261:506)
-                                    child: SizedBox(
-                                      width: double.infinity,
-                                      height: 12 * fem,
-                                      child: Container(
-                                        decoration: BoxDecoration(
-                                          borderRadius:
-                                              BorderRadius.circular(2 * fem),
-                                          color: const Color(0xff0a4c9a),
+                          Positioned(
+                            left: 0 * fem,
+                            top: 0 * fem,
+                            child: SizedBox(
+                              width: 68.07 * fem,
+                              height: 96 * fem,
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Container(
+                                    margin: EdgeInsets.fromLTRB(
+                                        0 * fem, 0 * fem, 2 * fem, 0 * fem),
+                                    padding: EdgeInsets.fromLTRB(
+                                        2.73 * fem, 3 * fem, 0 * fem, 3 * fem),
+                                    width: double.infinity,
+                                    height: 24 * fem,
+                                    child: Row(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.center,
+                                      children: [
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 12 * fem, 0 * fem),
+                                          padding: EdgeInsets.fromLTRB(
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem),
+                                          width: 18 * fem,
+                                          height: double.infinity,
+                                          decoration: BoxDecoration(
+                                            border: Border.all(
+                                                color: const Color(0xff0a4c9a),
+                                                width: 2.5),
+                                            borderRadius:
+                                                BorderRadius.circular(4 * fem),
+                                          ),
+                                          child: Center(
+                                            child: SizedBox(
+                                              width: double.infinity,
+                                              height: 12 * fem,
+                                              child: Container(
+                                                decoration: BoxDecoration(
+                                                  borderRadius:
+                                                      BorderRadius.circular(
+                                                          2 * fem),
+                                                  color:
+                                                      const Color(0xff0a4c9a),
+                                                ),
+                                              ),
+                                            ),
+                                          ),
                                         ),
-                                      ),
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 0 * fem, 1 * fem),
+                                          child: Text(
+                                            'task 1',
+                                            style: safeGoogleFont(
+                                              'Inter',
+                                              fontSize: 12 * ffem,
+                                              fontWeight: FontWeight.w400,
+                                              height: 1.2125 * ffem / fem,
+                                              color: const Color(0xff252525),
+                                            ),
+                                          ),
+                                        ),
+                                      ],
                                     ),
                                   ),
-                                ),
-                                Container(
-                                  // task1Ryr (261:501)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 0 * fem, 1 * fem),
-                                  child: Text(
-                                    'task 1',
-                                    style: safeGoogleFont(
-                                      'Inter',
-                                      fontSize: 12 * ffem,
-                                      fontWeight: FontWeight.w400,
-                                      height: 1.2125 * ffem / fem,
-                                      color: const Color(0xff252525),
+                                  SizedBox(
+                                    height: 12 * fem,
+                                  ),
+                                  Container(
+                                    padding: EdgeInsets.fromLTRB(
+                                        2.73 * fem, 3 * fem, 0 * fem, 3 * fem),
+                                    width: double.infinity,
+                                    height: 24 * fem,
+                                    child: Row(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.center,
+                                      children: [
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 12 * fem, 0 * fem),
+                                          padding: EdgeInsets.fromLTRB(
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem),
+                                          width: 18 * fem,
+                                          height: double.infinity,
+                                          decoration: BoxDecoration(
+                                            border: Border.all(
+                                                color: const Color(0xff0a4c9a),
+                                                width: 2.5),
+                                            borderRadius:
+                                                BorderRadius.circular(4 * fem),
+                                          ),
+                                          child: Center(
+                                            child: SizedBox(
+                                              width: double.infinity,
+                                              height: 12 * fem,
+                                              child: Container(
+                                                decoration: BoxDecoration(
+                                                  borderRadius:
+                                                      BorderRadius.circular(
+                                                          2 * fem),
+                                                  color:
+                                                      const Color(0x000a4c9a),
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 0 * fem, 1 * fem),
+                                          child: Text(
+                                            'task 2',
+                                            style: safeGoogleFont(
+                                              'Inter',
+                                              fontSize: 12 * ffem,
+                                              fontWeight: FontWeight.w400,
+                                              height: 1.2125 * ffem / fem,
+                                              color: const Color(0xff252525),
+                                            ),
+                                          ),
+                                        ),
+                                      ],
                                     ),
                                   ),
-                                ),
-                              ],
+                                  SizedBox(
+                                    height: 12 * fem,
+                                  ),
+                                  Container(
+                                    padding: EdgeInsets.fromLTRB(
+                                        2.73 * fem, 3 * fem, 0 * fem, 3 * fem),
+                                    width: double.infinity,
+                                    height: 24 * fem,
+                                    child: Row(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.center,
+                                      children: [
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 12 * fem, 0 * fem),
+                                          padding: EdgeInsets.fromLTRB(
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem),
+                                          width: 18 * fem,
+                                          height: double.infinity,
+                                          decoration: BoxDecoration(
+                                            border: Border.all(
+                                                color: const Color(0xff0a4c9a),
+                                                width: 2.5),
+                                            borderRadius:
+                                                BorderRadius.circular(4 * fem),
+                                          ),
+                                          child: Center(
+                                            child: SizedBox(
+                                              width: double.infinity,
+                                              height: 12 * fem,
+                                              child: Container(
+                                                decoration: BoxDecoration(
+                                                  borderRadius:
+                                                      BorderRadius.circular(
+                                                          2 * fem),
+                                                  color:
+                                                      const Color(0x000a4c9a),
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 0 * fem, 1 * fem),
+                                          child: Text(
+                                            'task 3',
+                                            style: safeGoogleFont(
+                                              'Inter',
+                                              fontSize: 12 * ffem,
+                                              fontWeight: FontWeight.w400,
+                                              height: 1.2125 * ffem / fem,
+                                              color: const Color(0xff252525),
+                                            ),
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
-                          Container(
-                            // group95wxC (261:507)
-                            padding: EdgeInsets.fromLTRB(
-                                2.73 * fem, 9 * fem, 218.06 * fem, 9 * fem),
-                            width: double.infinity,
-                            height: 36 * fem,
-                            decoration: BoxDecoration(
-                              border:
-                                  Border.all(color: const Color(0xffd9d9d9)),
-                            ),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Container(
-                                  // group92fNQ (261:512)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 13.93 * fem, 0 * fem),
-                                  padding: EdgeInsets.fromLTRB(
-                                      2.73 * fem, 3 * fem, 2.73 * fem, 3 * fem),
-                                  width: 16.4 * fem,
-                                  height: double.infinity,
-                                  decoration: BoxDecoration(
-                                    border: Border.all(
-                                        color: const Color(0xff0a4c9a)),
-                                    borderRadius:
-                                        BorderRadius.circular(4 * fem),
-                                  ),
-                                  child: Center(
-                                    // rectangle104xsJ (261:514)
-                                    child: SizedBox(
-                                      width: double.infinity,
-                                      height: 12 * fem,
-                                      child: Container(
-                                        decoration: BoxDecoration(
-                                          borderRadius:
-                                              BorderRadius.circular(2 * fem),
-                                          color: const Color(0x000a4c9a),
-                                        ),
-                                      ),
-                                    ),
+                          Positioned(
+                            left: 0.06640625 * fem,
+                            top: 28 * fem,
+                            child: Align(
+                              child: SizedBox(
+                                width: 286 * fem,
+                                height: 1 * fem,
+                                child: Container(
+                                  decoration: const BoxDecoration(
+                                    color: Color(0xffd9d9d9),
                                   ),
                                 ),
-                                Container(
-                                  // task2h4C (261:509)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 0 * fem, 1 * fem),
-                                  child: Text(
-                                    'task 2',
-                                    style: safeGoogleFont(
-                                      'Inter',
-                                      fontSize: 12 * ffem,
-                                      fontWeight: FontWeight.w400,
-                                      height: 1.2125 * ffem / fem,
-                                      color: const Color(0xff252525),
-                                    ),
-                                  ),
-                                ),
-                              ],
+                              ),
                             ),
                           ),
-                          Container(
-                            // group961Kn (261:515)
-                            padding: EdgeInsets.fromLTRB(
-                                2.73 * fem, 9 * fem, 218.06 * fem, 9 * fem),
-                            width: double.infinity,
-                            height: 36 * fem,
-                            decoration: BoxDecoration(
-                              border:
-                                  Border.all(color: const Color(0xffd9d9d9)),
-                            ),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Container(
-                                  // group92WnL (261:520)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 13.93 * fem, 0 * fem),
-                                  padding: EdgeInsets.fromLTRB(
-                                      2.73 * fem, 3 * fem, 2.73 * fem, 3 * fem),
-                                  width: 16.4 * fem,
-                                  height: double.infinity,
-                                  decoration: BoxDecoration(
-                                    border: Border.all(
-                                        color: const Color(0xff0a4c9a)),
-                                    borderRadius:
-                                        BorderRadius.circular(4 * fem),
-                                  ),
-                                  child: Center(
-                                    // rectangle104QMv (261:522)
-                                    child: SizedBox(
-                                      width: double.infinity,
-                                      height: 12 * fem,
-                                      child: Container(
-                                        decoration: BoxDecoration(
-                                          borderRadius:
-                                              BorderRadius.circular(2 * fem),
-                                          color: const Color(0x000a4c9a),
-                                        ),
-                                      ),
-                                    ),
+                          Positioned(
+                            left: 0.06640625 * fem,
+                            top: 66 * fem,
+                            child: Align(
+                              child: SizedBox(
+                                width: 286 * fem,
+                                height: 1 * fem,
+                                child: Container(
+                                  decoration: const BoxDecoration(
+                                    color: Color(0xffd9d9d9),
                                   ),
                                 ),
-                                Container(
-                                  // task3XhS (261:517)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 0 * fem, 1 * fem),
-                                  child: Text(
-                                    'task 3',
-                                    style: safeGoogleFont(
-                                      'Inter',
-                                      fontSize: 12 * ffem,
-                                      fontWeight: FontWeight.w400,
-                                      height: 1.2125 * ffem / fem,
-                                      color: const Color(0xff252525),
-                                    ),
-                                  ),
-                                ),
-                              ],
+                              ),
                             ),
                           ),
                         ],
+                      ),
+                    ),
+                    Container(
+                      margin: EdgeInsets.fromLTRB(
+                          0 * fem, 0 * fem, 2.01 * fem, 0 * fem),
+                      width: 286 * fem,
+                      height: 1 * fem,
+                      decoration: const BoxDecoration(
+                        color: Color(0xffd9d9d9),
                       ),
                     ),
                   ],
@@ -714,12 +738,11 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group1233vg (261:567)
               left: 41 * fem,
-              top: 500 * fem,
+              top: 495 * fem,
               child: Container(
                 padding: EdgeInsets.fromLTRB(
-                    10.93 * fem, 9 * fem, 8.92 * fem, 15 * fem),
+                    10.93 * fem, 9 * fem, 8.92 * fem, 14 * fem),
                 width: 308 * fem,
                 height: 203 * fem,
                 decoration: BoxDecoration(
@@ -737,15 +760,13 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // autogroup3t1yi1E (83rmoPcSWvFX17UYCB3t1y)
                       margin: EdgeInsets.fromLTRB(
-                          0 * fem, 0 * fem, 0 * fem, 12 * fem),
+                          0 * fem, 0 * fem, 0 * fem, 18 * fem),
                       width: double.infinity,
                       height: 59 * fem,
                       child: Stack(
                         children: [
                           Positioned(
-                            // mongolhelniiessaybichihq5r (261:569)
                             left: 1.82421875 * fem,
                             top: 5 * fem,
                             child: Align(
@@ -766,7 +787,6 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // group91XDa (261:570)
                             left: 217.06640625 * fem,
                             top: 0 * fem,
                             child: Container(
@@ -791,7 +811,6 @@ class Scene extends StatelessWidget {
                             ),
                           ),
                           Positioned(
-                            // group99nQQ (261:598)
                             left: 0 * fem,
                             top: 36 * fem,
                             child: Container(
@@ -804,7 +823,6 @@ class Scene extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // autogroupq9thhXN (83rn1y5pND9bbTDJbLQ9Th)
                                     margin: EdgeInsets.fromLTRB(
                                         3.07 * fem, 0 * fem, 2 * fem, 1 * fem),
                                     width: double.infinity,
@@ -813,7 +831,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // q7n (261:602)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               3 * fem, 223 * fem, 0 * fem),
                                           child: Text(
@@ -828,7 +845,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // LqE (261:603)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 3 * fem),
                                           child: Text(
@@ -847,7 +863,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // group97SdN (261:599)
                                     width: double.infinity,
                                     decoration: BoxDecoration(
                                       color: const Color(0xffd9d9d9),
@@ -855,7 +870,6 @@ class Scene extends StatelessWidget {
                                           BorderRadius.circular(6 * fem),
                                     ),
                                     child: Align(
-                                      // rectangle107nSL (261:601)
                                       alignment: Alignment.centerLeft,
                                       child: SizedBox(
                                         width: 96.02 * fem,
@@ -878,194 +892,250 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Container(
-                      // group98JQg (261:573)
                       margin: EdgeInsets.fromLTRB(
-                          0 * fem, 0 * fem, 2.01 * fem, 0 * fem),
-                      width: 286.13 * fem,
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.center,
+                          0 * fem, 0 * fem, 2.08 * fem, 6 * fem),
+                      width: 286.07 * fem,
+                      height: 96 * fem,
+                      child: Stack(
                         children: [
-                          Container(
-                            // group94dC4 (261:574)
-                            padding: EdgeInsets.fromLTRB(
-                                2.73 * fem, 9 * fem, 220.06 * fem, 9 * fem),
-                            width: double.infinity,
-                            height: 36 * fem,
-                            decoration: BoxDecoration(
-                              border:
-                                  Border.all(color: const Color(0xffd9d9d9)),
-                            ),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Container(
-                                  // group928ec (261:579)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 13.93 * fem, 0 * fem),
-                                  padding: EdgeInsets.fromLTRB(
-                                      2.73 * fem, 3 * fem, 2.73 * fem, 3 * fem),
-                                  width: 16.4 * fem,
-                                  height: double.infinity,
-                                  decoration: BoxDecoration(
-                                    border: Border.all(
-                                        color: const Color(0xff0a4c9a)),
-                                    borderRadius:
-                                        BorderRadius.circular(4 * fem),
-                                  ),
-                                  child: Center(
-                                    // rectangle1042V6 (261:581)
-                                    child: SizedBox(
-                                      width: double.infinity,
-                                      height: 12 * fem,
-                                      child: Container(
-                                        decoration: BoxDecoration(
-                                          borderRadius:
-                                              BorderRadius.circular(2 * fem),
-                                          color: const Color(0xff0a4c9a),
+                          Positioned(
+                            left: 0 * fem,
+                            top: 0 * fem,
+                            child: SizedBox(
+                              width: 68.07 * fem,
+                              height: 96 * fem,
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Container(
+                                    margin: EdgeInsets.fromLTRB(
+                                        0 * fem, 0 * fem, 2 * fem, 0 * fem),
+                                    padding: EdgeInsets.fromLTRB(
+                                        2.73 * fem, 3 * fem, 0 * fem, 3 * fem),
+                                    width: double.infinity,
+                                    height: 24 * fem,
+                                    child: Row(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.center,
+                                      children: [
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 12 * fem, 0 * fem),
+                                          padding: EdgeInsets.fromLTRB(
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem),
+                                          width: 18 * fem,
+                                          height: double.infinity,
+                                          decoration: BoxDecoration(
+                                            border: Border.all(
+                                                color: const Color(0xff0a4c9a),
+                                                width: 2.5),
+                                            borderRadius:
+                                                BorderRadius.circular(4 * fem),
+                                          ),
+                                          child: Center(
+                                            child: SizedBox(
+                                              width: double.infinity,
+                                              height: 12 * fem,
+                                              child: Container(
+                                                decoration: BoxDecoration(
+                                                  borderRadius:
+                                                      BorderRadius.circular(
+                                                          2 * fem),
+                                                  color:
+                                                      const Color(0xff0a4c9a),
+                                                ),
+                                              ),
+                                            ),
+                                          ),
                                         ),
-                                      ),
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 0 * fem, 1 * fem),
+                                          child: Text(
+                                            'task 1',
+                                            style: safeGoogleFont(
+                                              'Inter',
+                                              fontSize: 12 * ffem,
+                                              fontWeight: FontWeight.w400,
+                                              height: 1.2125 * ffem / fem,
+                                              color: const Color(0xff252525),
+                                            ),
+                                          ),
+                                        ),
+                                      ],
                                     ),
                                   ),
-                                ),
-                                Container(
-                                  // task1A5W (261:576)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 0 * fem, 1 * fem),
-                                  child: Text(
-                                    'task 1',
-                                    style: safeGoogleFont(
-                                      'Inter',
-                                      fontSize: 12 * ffem,
-                                      fontWeight: FontWeight.w400,
-                                      height: 1.2125 * ffem / fem,
-                                      color: const Color(0xff252525),
+                                  SizedBox(
+                                    height: 12 * fem,
+                                  ),
+                                  Container(
+                                    padding: EdgeInsets.fromLTRB(
+                                        2.73 * fem, 3 * fem, 0 * fem, 3 * fem),
+                                    width: double.infinity,
+                                    height: 24 * fem,
+                                    child: Row(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.center,
+                                      children: [
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 12 * fem, 0 * fem),
+                                          padding: EdgeInsets.fromLTRB(
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem),
+                                          width: 18 * fem,
+                                          height: double.infinity,
+                                          decoration: BoxDecoration(
+                                            border: Border.all(
+                                                color: const Color(0xff0a4c9a),
+                                                width: 2.5),
+                                            borderRadius:
+                                                BorderRadius.circular(4 * fem),
+                                          ),
+                                          child: Center(
+                                            child: SizedBox(
+                                              width: double.infinity,
+                                              height: 12 * fem,
+                                              child: Container(
+                                                decoration: BoxDecoration(
+                                                  borderRadius:
+                                                      BorderRadius.circular(
+                                                          2 * fem),
+                                                  color:
+                                                      const Color(0x000a4c9a),
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 0 * fem, 1 * fem),
+                                          child: Text(
+                                            'task 2',
+                                            style: safeGoogleFont(
+                                              'Inter',
+                                              fontSize: 12 * ffem,
+                                              fontWeight: FontWeight.w400,
+                                              height: 1.2125 * ffem / fem,
+                                              color: const Color(0xff252525),
+                                            ),
+                                          ),
+                                        ),
+                                      ],
                                     ),
                                   ),
-                                ),
-                              ],
+                                  SizedBox(
+                                    height: 12 * fem,
+                                  ),
+                                  Container(
+                                    padding: EdgeInsets.fromLTRB(
+                                        2.73 * fem, 3 * fem, 0 * fem, 3 * fem),
+                                    width: double.infinity,
+                                    height: 24 * fem,
+                                    child: Row(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.center,
+                                      children: [
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 12 * fem, 0 * fem),
+                                          padding: EdgeInsets.fromLTRB(
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem,
+                                              3 / 2 * fem),
+                                          width: 18 * fem,
+                                          height: double.infinity,
+                                          decoration: BoxDecoration(
+                                            border: Border.all(
+                                                color: const Color(0xff0a4c9a),
+                                                width: 2.5),
+                                            borderRadius:
+                                                BorderRadius.circular(4 * fem),
+                                          ),
+                                          child: Center(
+                                            child: SizedBox(
+                                              width: double.infinity,
+                                              height: 12 * fem,
+                                              child: Container(
+                                                decoration: BoxDecoration(
+                                                  borderRadius:
+                                                      BorderRadius.circular(
+                                                          2 * fem),
+                                                  color:
+                                                      const Color(0x000a4c9a),
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                        Container(
+                                          margin: EdgeInsets.fromLTRB(0 * fem,
+                                              0 * fem, 0 * fem, 1 * fem),
+                                          child: Text(
+                                            'task 3',
+                                            style: safeGoogleFont(
+                                              'Inter',
+                                              fontSize: 12 * ffem,
+                                              fontWeight: FontWeight.w400,
+                                              height: 1.2125 * ffem / fem,
+                                              color: const Color(0xff252525),
+                                            ),
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
-                          Container(
-                            // group95sVi (261:582)
-                            padding: EdgeInsets.fromLTRB(
-                                2.73 * fem, 9 * fem, 218.06 * fem, 9 * fem),
-                            width: double.infinity,
-                            height: 36 * fem,
-                            decoration: BoxDecoration(
-                              border:
-                                  Border.all(color: const Color(0xffd9d9d9)),
-                            ),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Container(
-                                  // group92zKS (261:587)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 13.93 * fem, 0 * fem),
-                                  padding: EdgeInsets.fromLTRB(
-                                      2.73 * fem, 3 * fem, 2.73 * fem, 3 * fem),
-                                  width: 16.038 * fem,
-                                  height: double.infinity,
-                                  decoration: BoxDecoration(
-                                    border: Border.all(
-                                        color: const Color(0xff0a4c9a)),
-                                    borderRadius:
-                                        BorderRadius.circular(4 * fem),
-                                  ),
-                                  child: Center(
-                                    // rectangle104hDr (261:589)
-                                    child: SizedBox(
-                                      width: double.infinity,
-                                      height: 12 * fem,
-                                      child: Container(
-                                        decoration: BoxDecoration(
-                                          borderRadius:
-                                              BorderRadius.circular(2 * fem),
-                                          color: const Color(0x000a4c9a),
-                                        ),
-                                      ),
-                                    ),
+                          Positioned(
+                            left: 0.06640625 * fem,
+                            top: 28 * fem,
+                            child: Align(
+                              child: SizedBox(
+                                width: 286 * fem,
+                                height: 1 * fem,
+                                child: Container(
+                                  decoration: const BoxDecoration(
+                                    color: Color(0xffd9d9d9),
                                   ),
                                 ),
-                                Container(
-                                  // task2Dxt (261:584)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 0 * fem, 1 * fem),
-                                  child: Text(
-                                    'task 2',
-                                    style: safeGoogleFont(
-                                      'Inter',
-                                      fontSize: 12 * ffem,
-                                      fontWeight: FontWeight.w400,
-                                      height: 1.2125 * ffem / fem,
-                                      color: const Color(0xff252525),
-                                    ),
-                                  ),
-                                ),
-                              ],
+                              ),
                             ),
                           ),
-                          Container(
-                            // group96wtt (261:590)
-                            padding: EdgeInsets.fromLTRB(
-                                2.73 * fem, 9 * fem, 218.06 * fem, 9 * fem),
-                            width: double.infinity,
-                            height: 36 * fem,
-                            decoration: BoxDecoration(
-                              border:
-                                  Border.all(color: const Color(0xffd9d9d9)),
-                            ),
-                            child: Row(
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Container(
-                                  // group92rW4 (261:595)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 13.93 * fem, 0 * fem),
-                                  padding: EdgeInsets.fromLTRB(
-                                      2.73 * fem, 3 * fem, 2.73 * fem, 3 * fem),
-                                  width: 16.4 * fem,
-                                  height: double.infinity,
-                                  decoration: BoxDecoration(
-                                    border: Border.all(
-                                        color: const Color(0xff0a4c9a)),
-                                    borderRadius:
-                                        BorderRadius.circular(4 * fem),
-                                  ),
-                                  child: Center(
-                                    // rectangle104xoz (261:597)
-                                    child: SizedBox(
-                                      width: double.infinity,
-                                      height: 12 * fem,
-                                      child: Container(
-                                        decoration: BoxDecoration(
-                                          borderRadius:
-                                              BorderRadius.circular(2 * fem),
-                                          color: const Color(0x000a4c9a),
-                                        ),
-                                      ),
-                                    ),
+                          Positioned(
+                            left: 0.06640625 * fem,
+                            top: 66 * fem,
+                            child: Align(
+                              child: SizedBox(
+                                width: 286 * fem,
+                                height: 1 * fem,
+                                child: Container(
+                                  decoration: const BoxDecoration(
+                                    color: Color(0xffd9d9d9),
                                   ),
                                 ),
-                                Container(
-                                  // task3the (261:592)
-                                  margin: EdgeInsets.fromLTRB(
-                                      0 * fem, 0 * fem, 0 * fem, 1 * fem),
-                                  child: Text(
-                                    'task 3',
-                                    style: safeGoogleFont(
-                                      'Inter',
-                                      fontSize: 12 * ffem,
-                                      fontWeight: FontWeight.w400,
-                                      height: 1.2125 * ffem / fem,
-                                      color: const Color(0xff252525),
-                                    ),
-                                  ),
-                                ),
-                              ],
+                              ),
                             ),
                           ),
                         ],
+                      ),
+                    ),
+                    Container(
+                      margin: EdgeInsets.fromLTRB(
+                          0 * fem, 0 * fem, 2.01 * fem, 0 * fem),
+                      width: 286 * fem,
+                      height: 1 * fem,
+                      decoration: const BoxDecoration(
+                        color: Color(0xffd9d9d9),
                       ),
                     ),
                   ],

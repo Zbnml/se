@@ -13,7 +13,6 @@ class Scene extends StatelessWidget {
     return SizedBox(
       width: double.infinity,
       child: Container(
-        // home34DTn (533:195)
         width: double.infinity,
         height: 844 * fem,
         decoration: const BoxDecoration(
@@ -22,7 +21,6 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // autogroups8r9Vw6 (83qsBjcbcMtpm8Hxvvs8R9)
               left: 0 * fem,
               top: 0 * fem,
               child: SizedBox(
@@ -31,7 +29,6 @@ class Scene extends StatelessWidget {
                 child: Stack(
                   children: [
                     Positioned(
-                      // group119ogt (533:196)
                       left: 0 * fem,
                       top: 0 * fem,
                       child: Container(
@@ -50,7 +47,6 @@ class Scene extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // group104G4g (533:198)
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 97 * fem, 0 * fem),
                               width: 81 * fem,
@@ -62,7 +58,6 @@ class Scene extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Container(
-                                    // image5ZpU (533:199)
                                     margin: EdgeInsets.fromLTRB(
                                         0 * fem, 0 * fem, 0 * fem, 12 * fem),
                                     width: 68 * fem,
@@ -77,7 +72,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Text(
-                                    // zunbilegFxC (533:200)
                                     'Zunbileg',
                                     style: safeGoogleFont(
                                       'Inter',
@@ -88,7 +82,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   SizedBox(
-                                    // narantsetegNG8 (533:201)
                                     width: double.infinity,
                                     child: Text(
                                       'Narantseteg',
@@ -106,14 +99,12 @@ class Scene extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // group78VLk (533:202)
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 0 * fem, 42 * fem),
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Container(
-                                    // ocL (533:203)
                                     margin: EdgeInsets.fromLTRB(
                                         0 * fem, 0 * fem, 0 * fem, 23 * fem),
                                     child: Text(
@@ -128,20 +119,17 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   SizedBox(
-                                    // group7765e (533:204)
                                     height: 34 * fem,
                                     child: Row(
                                       crossAxisAlignment:
                                           CrossAxisAlignment.center,
                                       children: [
                                         SizedBox(
-                                          // group74Qc8 (533:205)
                                           width: 31 * fem,
                                           height: double.infinity,
                                           child: Stack(
                                             children: [
                                               Positioned(
-                                                // MXN (533:206)
                                                 left: 0 * fem,
                                                 top: 0 * fem,
                                                 child: Align(
@@ -165,7 +153,6 @@ class Scene extends StatelessWidget {
                                                 ),
                                               ),
                                               Positioned(
-                                                // FMr (533:207)
                                                 left: 0 * fem,
                                                 top: 19 * fem,
                                                 child: Align(
@@ -195,13 +182,11 @@ class Scene extends StatelessWidget {
                                           width: 23 * fem,
                                         ),
                                         SizedBox(
-                                          // group75W2t (533:208)
                                           width: 22 * fem,
                                           height: double.infinity,
                                           child: Stack(
                                             children: [
                                               Positioned(
-                                                // FWG (533:209)
                                                 left: 0 * fem,
                                                 top: 0 * fem,
                                                 child: Align(
@@ -225,7 +210,6 @@ class Scene extends StatelessWidget {
                                                 ),
                                               ),
                                               Positioned(
-                                                // YEU (533:210)
                                                 left: 0 * fem,
                                                 top: 19 * fem,
                                                 child: Align(
@@ -255,13 +239,11 @@ class Scene extends StatelessWidget {
                                           width: 23 * fem,
                                         ),
                                         SizedBox(
-                                          // group76R3N (533:211)
                                           width: 39 * fem,
                                           height: double.infinity,
                                           child: Stack(
                                             children: [
                                               Positioned(
-                                                // Z9a (533:212)
                                                 left: 0 * fem,
                                                 top: 0 * fem,
                                                 child: Align(
@@ -285,7 +267,6 @@ class Scene extends StatelessWidget {
                                                 ),
                                               ),
                                               Positioned(
-                                                // TEx (533:213)
                                                 left: 0 * fem,
                                                 top: 19 * fem,
                                                 child: Align(
@@ -322,7 +303,6 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // rectangle955nG (261:163)
                       left: 26 * fem,
                       top: 214 * fem,
                       child: Align(
@@ -346,7 +326,6 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // group120xLG (261:262)
                       left: 54 * fem,
                       top: 228 * fem,
                       child: Align(
@@ -363,7 +342,6 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // fEg (262:26)
                       left: 89 * fem,
                       top: 232 * fem,
                       child: Align(
@@ -384,7 +362,6 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // group122YpG (261:492)
                       left: 41 * fem,
                       top: 272 * fem,
                       child: Container(
@@ -407,7 +384,6 @@ class Scene extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // autogroupaaax1Sx (83rkhb7R9QzcWsPd3PAAAX)
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 0 * fem, 12 * fem),
                               width: double.infinity,
@@ -415,7 +391,6 @@ class Scene extends StatelessWidget {
                               child: Stack(
                                 children: [
                                   Positioned(
-                                    // mongolhelniiessaybichihwLc (261:494)
                                     left: 1.82421875 * fem,
                                     top: 5 * fem,
                                     child: Align(
@@ -436,7 +411,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Positioned(
-                                    // group911rG (261:495)
                                     left: 217.06640625 * fem,
                                     top: 0 * fem,
                                     child: Container(
@@ -462,7 +436,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Positioned(
-                                    // group99sda (261:523)
                                     left: 0 * fem,
                                     top: 36 * fem,
                                     child: Container(
@@ -477,7 +450,6 @@ class Scene extends StatelessWidget {
                                             CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // autogroupepf5khN (83rkw5iw7kfCdkXUbXepF5)
                                             margin: EdgeInsets.fromLTRB(
                                                 3.07 * fem,
                                                 0 * fem,
@@ -489,7 +461,6 @@ class Scene extends StatelessWidget {
                                                   CrossAxisAlignment.center,
                                               children: [
                                                 Container(
-                                                  // gL8 (261:527)
                                                   margin: EdgeInsets.fromLTRB(
                                                       0 * fem,
                                                       3 * fem,
@@ -510,7 +481,6 @@ class Scene extends StatelessWidget {
                                                   ),
                                                 ),
                                                 Container(
-                                                  // oQk (261:528)
                                                   margin: EdgeInsets.fromLTRB(
                                                       0 * fem,
                                                       0 * fem,
@@ -535,7 +505,6 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Container(
-                                            // group97iXi (261:524)
                                             width: double.infinity,
                                             decoration: BoxDecoration(
                                               color: const Color(0xffd9d9d9),
@@ -544,7 +513,6 @@ class Scene extends StatelessWidget {
                                                       6 * fem),
                                             ),
                                             child: Align(
-                                              // rectangle107TEQ (261:526)
                                               alignment: Alignment.centerLeft,
                                               child: SizedBox(
                                                 width: 96.02 * fem,
@@ -569,7 +537,6 @@ class Scene extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // group98xgx (261:498)
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 2.01 * fem, 0 * fem),
                               width: 286.13 * fem,
@@ -577,7 +544,6 @@ class Scene extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // group94VB6 (261:499)
                                     padding: EdgeInsets.fromLTRB(2.73 * fem,
                                         9 * fem, 220.06 * fem, 9 * fem),
                                     width: double.infinity,
@@ -591,7 +557,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // group92CLQ (261:504)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 13.93 * fem, 0 * fem),
                                           padding: EdgeInsets.fromLTRB(
@@ -608,7 +573,6 @@ class Scene extends StatelessWidget {
                                                 BorderRadius.circular(4 * fem),
                                           ),
                                           child: Center(
-                                            // rectangle104hHA (261:506)
                                             child: SizedBox(
                                               width: double.infinity,
                                               height: 12 * fem,
@@ -625,7 +589,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // task1Ryr (261:501)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 1 * fem),
                                           child: Text(
@@ -643,7 +606,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // group95wxC (261:507)
                                     padding: EdgeInsets.fromLTRB(2.73 * fem,
                                         9 * fem, 218.06 * fem, 9 * fem),
                                     width: double.infinity,
@@ -657,7 +619,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // group92fNQ (261:512)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 13.93 * fem, 0 * fem),
                                           padding: EdgeInsets.fromLTRB(
@@ -674,7 +635,6 @@ class Scene extends StatelessWidget {
                                                 BorderRadius.circular(4 * fem),
                                           ),
                                           child: Center(
-                                            // rectangle104xsJ (261:514)
                                             child: SizedBox(
                                               width: double.infinity,
                                               height: 12 * fem,
@@ -691,7 +651,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // task2h4C (261:509)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 1 * fem),
                                           child: Text(
@@ -709,7 +668,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // group961Kn (261:515)
                                     padding: EdgeInsets.fromLTRB(2.73 * fem,
                                         9 * fem, 218.06 * fem, 9 * fem),
                                     width: double.infinity,
@@ -723,7 +681,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // group92WnL (261:520)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 13.93 * fem, 0 * fem),
                                           padding: EdgeInsets.fromLTRB(
@@ -740,7 +697,6 @@ class Scene extends StatelessWidget {
                                                 BorderRadius.circular(4 * fem),
                                           ),
                                           child: Center(
-                                            // rectangle104QMv (261:522)
                                             child: SizedBox(
                                               width: double.infinity,
                                               height: 12 * fem,
@@ -757,7 +713,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // task3XhS (261:517)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 1 * fem),
                                           child: Text(
@@ -782,7 +737,6 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // group1233vg (261:567)
                       left: 41 * fem,
                       top: 500 * fem,
                       child: Container(
@@ -805,7 +759,6 @@ class Scene extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // autogroup3t1yi1E (83rmoPcSWvFX17UYCB3t1y)
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 0 * fem, 12 * fem),
                               width: double.infinity,
@@ -813,7 +766,6 @@ class Scene extends StatelessWidget {
                               child: Stack(
                                 children: [
                                   Positioned(
-                                    // mongolhelniiessaybichihq5r (261:569)
                                     left: 1.82421875 * fem,
                                     top: 5 * fem,
                                     child: Align(
@@ -834,7 +786,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Positioned(
-                                    // group91XDa (261:570)
                                     left: 217.06640625 * fem,
                                     top: 0 * fem,
                                     child: Container(
@@ -860,7 +811,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Positioned(
-                                    // group99nQQ (261:598)
                                     left: 0 * fem,
                                     top: 36 * fem,
                                     child: Container(
@@ -875,7 +825,6 @@ class Scene extends StatelessWidget {
                                             CrossAxisAlignment.center,
                                         children: [
                                           Container(
-                                            // autogroupq9thhXN (83rn1y5pND9bbTDJbLQ9Th)
                                             margin: EdgeInsets.fromLTRB(
                                                 3.07 * fem,
                                                 0 * fem,
@@ -887,7 +836,6 @@ class Scene extends StatelessWidget {
                                                   CrossAxisAlignment.center,
                                               children: [
                                                 Container(
-                                                  // q7n (261:602)
                                                   margin: EdgeInsets.fromLTRB(
                                                       0 * fem,
                                                       3 * fem,
@@ -908,7 +856,6 @@ class Scene extends StatelessWidget {
                                                   ),
                                                 ),
                                                 Container(
-                                                  // LqE (261:603)
                                                   margin: EdgeInsets.fromLTRB(
                                                       0 * fem,
                                                       0 * fem,
@@ -933,7 +880,6 @@ class Scene extends StatelessWidget {
                                             ),
                                           ),
                                           Container(
-                                            // group97SdN (261:599)
                                             width: double.infinity,
                                             decoration: BoxDecoration(
                                               color: const Color(0xffd9d9d9),
@@ -942,7 +888,6 @@ class Scene extends StatelessWidget {
                                                       6 * fem),
                                             ),
                                             child: Align(
-                                              // rectangle107nSL (261:601)
                                               alignment: Alignment.centerLeft,
                                               child: SizedBox(
                                                 width: 96.02 * fem,
@@ -967,7 +912,6 @@ class Scene extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              // group98JQg (261:573)
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 2.01 * fem, 0 * fem),
                               width: 286.13 * fem,
@@ -975,7 +919,6 @@ class Scene extends StatelessWidget {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Container(
-                                    // group94dC4 (261:574)
                                     padding: EdgeInsets.fromLTRB(2.73 * fem,
                                         9 * fem, 220.06 * fem, 9 * fem),
                                     width: double.infinity,
@@ -989,7 +932,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // group928ec (261:579)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 13.93 * fem, 0 * fem),
                                           padding: EdgeInsets.fromLTRB(
@@ -1006,7 +948,6 @@ class Scene extends StatelessWidget {
                                                 BorderRadius.circular(4 * fem),
                                           ),
                                           child: Center(
-                                            // rectangle1042V6 (261:581)
                                             child: SizedBox(
                                               width: double.infinity,
                                               height: 12 * fem,
@@ -1023,7 +964,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // task1A5W (261:576)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 1 * fem),
                                           child: Text(
@@ -1041,7 +981,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // group95sVi (261:582)
                                     padding: EdgeInsets.fromLTRB(2.73 * fem,
                                         9 * fem, 218.06 * fem, 9 * fem),
                                     width: double.infinity,
@@ -1055,7 +994,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // group92zKS (261:587)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 13.93 * fem, 0 * fem),
                                           padding: EdgeInsets.fromLTRB(
@@ -1072,7 +1010,6 @@ class Scene extends StatelessWidget {
                                                 BorderRadius.circular(4 * fem),
                                           ),
                                           child: Center(
-                                            // rectangle104hDr (261:589)
                                             child: SizedBox(
                                               width: double.infinity,
                                               height: 12 * fem,
@@ -1089,7 +1026,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // task2Dxt (261:584)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 1 * fem),
                                           child: Text(
@@ -1107,7 +1043,6 @@ class Scene extends StatelessWidget {
                                     ),
                                   ),
                                   Container(
-                                    // group96wtt (261:590)
                                     padding: EdgeInsets.fromLTRB(2.73 * fem,
                                         9 * fem, 218.06 * fem, 9 * fem),
                                     width: double.infinity,
@@ -1121,7 +1056,6 @@ class Scene extends StatelessWidget {
                                           CrossAxisAlignment.center,
                                       children: [
                                         Container(
-                                          // group92rW4 (261:595)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 13.93 * fem, 0 * fem),
                                           padding: EdgeInsets.fromLTRB(
@@ -1138,7 +1072,6 @@ class Scene extends StatelessWidget {
                                                 BorderRadius.circular(4 * fem),
                                           ),
                                           child: Center(
-                                            // rectangle104xoz (261:597)
                                             child: SizedBox(
                                               width: double.infinity,
                                               height: 12 * fem,
@@ -1155,7 +1088,6 @@ class Scene extends StatelessWidget {
                                           ),
                                         ),
                                         Container(
-                                          // task3the (261:592)
                                           margin: EdgeInsets.fromLTRB(0 * fem,
                                               0 * fem, 0 * fem, 1 * fem),
                                           child: Text(

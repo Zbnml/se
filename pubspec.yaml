@@ -63,20 +63,28 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/icons/sun.svg
-    - assets/icons/star.svg
     - assets/icons/clock.svg
-    - assets/icons/chevrons_left.svg
-    - assets/icons/chevrons-right.svg
     - assets/icons/cv2.jpg
-    - assets/icons/edit_3.svg
-    - assets/icons/clipboard.svg
     - assets/icons/sumzuun.svg
     - assets/icons/sumbaruun.svg
     - assets/icons/baruunsum.svg
     - assets/icons/kalendar.svg
     - assets/icons/menusm.svg
     - assets/icons/pencil_line.svg
+    - assets/icons/logo.jpg
+    - assets/icons/faceid.svg
+    - assets/icons/facebook.svg
+    - assets/icons/apple.svg
+    - assets/icons/google.svg
+    - assets/icons/box.svg
+    - assets/icons/clipboard.svg
+    - assets/icons/x.svg
+    - assets/icons/menu.svg
+    - assets/icons/Line22.svg
+    - assets/icons/apple.svg
+    - assets/icons/popupmenu.svg
+    - assets/icons/line.png
+
   #   - icons/
 
   # An image asset can refer to one or more resolution-specific "variants", see
